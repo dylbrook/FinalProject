@@ -1,3 +1,4 @@
+#code from someoneigna
 import sys, os, pygame, random, math
 
 pygame.init()
